@@ -1,0 +1,2 @@
+with open ('fatinninie.txt', 'r') as f:
+    data = f.read()

@@ -1,0 +1,2 @@
+with open ('fatinninie.bin', 'rb') as f:
+    data = f.read()
